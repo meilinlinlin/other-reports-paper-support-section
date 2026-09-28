@@ -1,3 +1,20 @@
-# other-reports-paper-support-section
-https://gamma.app/docs/-3qm0sle9u45tufx
-https://gamma.app/docs/1142Money-and-Banking-en6osb9atfj3y6w
+# 其他報告與學習成果
+
+本頁彙整大學期間之課程報告與相關學習成果，包含財務計量分析、金融市場及貨幣銀行學等內容，呈現財務金融理論、資料分析與實證研究之學習歷程。
+
+## 📚 內容總覽
+
+### 1. 財務計量分析期末報告
+**企業 ESG 績效對股價報酬與股價波動性之影響－以上市化學生技醫產業為例**
+
+透過 TEJ 與 TESG 資料庫蒐集企業資料，運用 OLS 迴歸分析探討 ESG 績效與股價報酬、波動性之關係。
+
+➡️ [查看財務計量分析期末報告](./Financial%20Quantitative%20Analysis%20-%20Semester%20Report/)
+
+---
+
+### 2. 其他課程學習成果
+
+彙整金融市場、貨幣銀行學等課程之專題與簡報成果。
+
+➡️ [查看其他課程學習成果](./report/)
